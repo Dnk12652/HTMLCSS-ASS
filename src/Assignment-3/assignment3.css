@@ -5,3 +5,57 @@
 width: 100%;
 height: 100%;
 }
+.page-top{
+   background: #F2F2F2;
+    width: 100%;
+    height: 400px;
+}
+.inside{
+    width: 55%;
+    padding-left: 120px;
+    padding-top:10px
+
+}
+.inside-b{
+    margin-left: 120px;
+}
+.left-side{
+    width: 44%;
+    margin: 10px;
+    padding-top: 50px;
+    padding-left: 30px;
+    
+}
+.page-top .left-side,.page-top iframe{
+    display: inline-block;
+}
+#render-wiki{
+    float: right;
+    width: 47%;
+    height: 300px;
+    margin: 10px;
+    padding-top: 40px;
+    padding-right: 50px;
+}
+button{
+    background-color: rgb(99, 116, 110);
+}
+.page-bottom{
+    display: block;
+    height: 400px;
+    background: #F2F2F2;
+    text-align: center;
+   
+}
+.page-bottom p{
+    padding-left: 400px;
+    width: 40%;
+
+}
+
+.page-bottom iframe{
+    width: 100%;
+    height: 250px;
+    padding-top: 20px;
+}
+
